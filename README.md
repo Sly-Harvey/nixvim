@@ -1,6 +1,6 @@
 # Nixvim
 
-<!-- ![Screenshot](./preview.png) -->
+![Screenshot](./preview.png)
 
 ## Run
 ```Nix
