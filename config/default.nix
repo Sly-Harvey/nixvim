@@ -48,7 +48,7 @@
     # ripgrep
     tmux-sessionizer
     # Formatters
-    alejandra
+    nixfmt
     asmfmt
     astyle
     black
