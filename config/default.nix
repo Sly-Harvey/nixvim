@@ -71,7 +71,7 @@
     gdb
     go
     # lldb_17
-    llvmPackages_17.bintools-unwrapped
+    llvmPackages_20.bintools-unwrapped
     marksman
     # Linters
     commitlint
@@ -81,7 +81,6 @@
     # html-tidy
     luajitPackages.luacheck
     markdownlint-cli
-    nodePackages.jsonlint
     pylint
     ruff
     # shellcheck
